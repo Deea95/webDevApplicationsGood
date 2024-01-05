@@ -28,7 +28,7 @@ app.get('/exercitiul1', (req, res) => {
 //------------------------------------------------
 
 // Definirea portului pe care serverul va asculta
-const port = 3000;
+const port = 3001;
 
 // Pornirea serverului pe portul specificat
 app.listen(port, () => {
